@@ -172,7 +172,7 @@ FIG 4:RESULTS
 
 
 
-![image1](https://user-images.githubusercontent.com/49300118/188106168-55e65218-535c-47c4-adcb-99dbd92fb681.png)
+
 ![image2](https://user-images.githubusercontent.com/49300118/188106170-e45cd874-e6d9-41fd-b211-921aa1c459f9.png)
 ![image3](https://user-images.githubusercontent.com/49300118/188106171-63de3657-88a7-43e1-a462-928e84339851.png)
 ![image4](https://user-images.githubusercontent.com/49300118/188106173-799b82b1-1096-4576-9473-168987fa4474.png)
