@@ -106,13 +106,13 @@ d) Bus
 e) Background
 f) Non-Motorized Vehicle
 
-
+![image2](https://user-images.githubusercontent.com/49300118/188106170-e45cd874-e6d9-41fd-b211-921aa1c459f9.png)
 FIG 1: TRAINING DATASET 1
-
+![image3](https://user-images.githubusercontent.com/49300118/188106171-63de3657-88a7-43e1-a462-928e84339851.png)
 FIG 2: TESTING DATASET 1
 
 3.5. System Architecture
-
+![image4](https://user-images.githubusercontent.com/49300118/188106173-799b82b1-1096-4576-9473-168987fa4474.png)
 FIG 3: MODEL ARCHITECTURE USING SUMMARY()
 4. Work Done 
 
@@ -173,9 +173,9 @@ FIG 4:RESULTS
 
 
 
-![image2](https://user-images.githubusercontent.com/49300118/188106170-e45cd874-e6d9-41fd-b211-921aa1c459f9.png)
-![image3](https://user-images.githubusercontent.com/49300118/188106171-63de3657-88a7-43e1-a462-928e84339851.png)
-![image4](https://user-images.githubusercontent.com/49300118/188106173-799b82b1-1096-4576-9473-168987fa4474.png)
+
+
+
 ![image5](https://user-images.githubusercontent.com/49300118/188106175-8a999542-60e4-4e7d-806f-1cae551d7626.png)
 ![image6](https://user-images.githubusercontent.com/49300118/188106176-426b9c6e-7539-484a-91d7-37bd920c1b6b.jpg)
 ![image7](https://user-images.githubusercontent.com/49300118/188106180-b77a14b8-5fbb-4f5b-ad0c-b6b6f232bc7f.png)
