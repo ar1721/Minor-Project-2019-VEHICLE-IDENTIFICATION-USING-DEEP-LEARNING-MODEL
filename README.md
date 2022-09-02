@@ -305,6 +305,8 @@ Using this trained model in conjunction with front end application like parking 
 in cars we can further classify them as sedan, hatchback, SUV, etc. Another example is further classification of two wheelers into motorcycle, bicycle, scooter, etc.
 We can extend this model to use localization of vehicles in images. 
 
+Prediction Video
+https://youtu.be/gvQPdUAUc7s
 
 References Appendix 
 Machine Learning – Forsk OpenEdx Course
